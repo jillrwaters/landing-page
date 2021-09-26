@@ -7,7 +7,9 @@
 
 body {
     margin: 0;
-    font-family: 'Courier New', Courier, monospace
+    font-family: 'Courier New', Courier, monospace;
+    display: flex;
+    flex-direction: column;
 
 }
 
